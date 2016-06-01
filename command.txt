@@ -13,4 +13,4 @@ git add name - добавление выбранного файла
 git commit -m "Коммент" - создание снимка 
 git remote add origin https://github.com/USER/NAME.git -привязываем локальный репозиторий с удаленным
 git push -u origin master - заливаем репозиторий удаленно на гитхаб по вышеуказаному пути вводим логин и пасс
-git
+git добавили
