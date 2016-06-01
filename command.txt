@@ -1,10 +1,10 @@
-1______________________________________
+1________________________
 git config --global user.name "Kapustin Pavel"
 git config --global user.email "pavel.kapustin@solverlabs.com"
 git config 	- вывод доступных команд "гит конфиг"
 git config --list -вывод информации гита
 git help commit - help
-2_________________________________________
+2_________________________
 cd d:/Git/leson1 - переход
 git init -создание репозитория
 git status - статус репозитория

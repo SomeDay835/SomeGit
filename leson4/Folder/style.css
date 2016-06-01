@@ -3,12 +3,8 @@
  <head>
   <meta charset="utf-8">
   <title>background-attachment</title>
-  <style>
-   body {
-    background-image: url(images/pattern-left.png), url(images/pattern-right.png);
-    background-repeat: repeat-y, repeat-y;
-    background-position: left, right;
-    background-attachment: fixed, fixed;
+  <style>Удалил текст ниже
+  
    }
   </style>
  </head>
